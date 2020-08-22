@@ -1,5 +1,5 @@
 {
-    signupmock:[{
+    "signupmock":[{
     "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTc2OTc1NzcsIm5hbWUiOm51bGwsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJwcmVmZXJlbmNlcyI6e30sImlhdCI6MTU5NzY4MzE3N30.__i1441zKRTJtBjSkQMgODdB1SPg4HJlF52IBoy-fLw",
     "info": {
         "email": "test@gmail.com"
